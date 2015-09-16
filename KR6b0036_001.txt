@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:19.343724
+#+DATE: 2015-08-30 19:34:19.546728
 #+TITLE: 佛說九色鹿經
 #+PROPERTY: CBETA_ID T03n0181b
 #+PROPERTY: ID KR6b0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 181b
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6b0036_T_001-0453b> 
 #+PROPERTY: JUAN 1
 ¶
-
- 佛說九色鹿經¶
+佛說九色鹿經¶
 ¶
 吳月氏優婆塞支謙譯¶
 
@@ -98,7 +97,7 @@
 佛告諸弟子：「菩薩所行，雖處畜¶
 生不捨於慈，人獸竝度。
 
-「是時夫人者，孫¶
+「是時夫人者，酸¶
 陀利是也；是時烏者，阿難是也；是溺人者，¶
 調達是也；時鹿者，我身是也。調達與我世¶
 世有怨；阿難有至意得道。」
