@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:19.930253
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:55
 #+TITLE: 佛說九色鹿經
 #+PROPERTY: CBETA_ID T03n0181b
 #+PROPERTY: ID KR6b0036
